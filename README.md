@@ -1,4 +1,5 @@
 ## 项目结构
+```
 .
 ├── EurekaClient
 │   ├── EurekaClient.iml
@@ -156,6 +157,7 @@
 │       └── generated-sources
 │           └── annotations
 └── springcloud.iml
+```
 ## 启动步骤
 ### 第一步先启动Eureka服务
 ### 第二步启动Eureka客户端
